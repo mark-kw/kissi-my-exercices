@@ -4,5 +4,3 @@
         return 0;
      return a+b;
  };
-
- console.log(my_sum(6,6));
