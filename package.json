@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/mark-kw/kissi-my-exercises/issues"
   },
-  "homepage": "https://github.com/mark-kw/kissi-my-exercises#readme"
+  "homepage": "https://github.com/mark-kw/kissi-my-exercises#readme",
+  "type": "module"
 }
