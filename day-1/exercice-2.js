@@ -8,4 +8,3 @@ import { my_display_alpha } from "./exercice-1.js";
       }
     return str;
 };
-console.log(my_display_alpha_reverse());
